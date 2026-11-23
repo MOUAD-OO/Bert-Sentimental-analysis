@@ -1,1 +1,2 @@
-./project_venv
+project_venv
+trained_model.pt
