@@ -1,2 +1,2 @@
 project_venv
-trained_model.pt
+checkpoints/
